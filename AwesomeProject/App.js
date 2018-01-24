@@ -22,7 +22,7 @@ const instructions = Platform.select({
 export default class App extends Component<{}> {
   
   render() {
-    {console.log('fuck');}
+
     {console.warn('ado');}
     return (
       <View style={styles.container}>
